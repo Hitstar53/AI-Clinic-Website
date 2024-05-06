@@ -6,10 +6,9 @@
 .yarn/install-state.gz
 
 # ignore templates
-/templates
-/static
 /models
-/media
+/static
+
 
 # testing
 /coverage
