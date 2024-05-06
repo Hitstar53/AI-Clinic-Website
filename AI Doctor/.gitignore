@@ -7,8 +7,6 @@
 
 # ignore templates
 /models
-/static
-
 
 # testing
 /coverage
